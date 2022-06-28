@@ -1,0 +1,13 @@
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\bin\Debug\netcoreapp3.1\CanTokenProg1.exe
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\bin\Debug\netcoreapp3.1\CanTokenProg1.deps.json
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\bin\Debug\netcoreapp3.1\CanTokenProg1.runtimeconfig.json
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\bin\Debug\netcoreapp3.1\CanTokenProg1.runtimeconfig.dev.json
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\bin\Debug\netcoreapp3.1\CanTokenProg1.dll
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\bin\Debug\netcoreapp3.1\CanTokenProg1.pdb
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\obj\Debug\netcoreapp3.1\CanTokenProg1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\obj\Debug\netcoreapp3.1\CanTokenProg1.AssemblyInfoInputs.cache
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\obj\Debug\netcoreapp3.1\CanTokenProg1.AssemblyInfo.cs
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\obj\Debug\netcoreapp3.1\CanTokenProg1.csproj.CoreCompileInputs.cache
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\obj\Debug\netcoreapp3.1\CanTokenProg1.dll
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\obj\Debug\netcoreapp3.1\CanTokenProg1.pdb
+D:\ConsoleApp\CanTokenProg1\CanTokenProg1\obj\Debug\netcoreapp3.1\CanTokenProg1.genruntimeconfig.cache

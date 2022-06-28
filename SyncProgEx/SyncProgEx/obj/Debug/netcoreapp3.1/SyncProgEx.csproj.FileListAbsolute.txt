@@ -1,0 +1,13 @@
+D:\ConsoleApp\SyncProgEx\SyncProgEx\bin\Debug\netcoreapp3.1\SyncProgEx.exe
+D:\ConsoleApp\SyncProgEx\SyncProgEx\bin\Debug\netcoreapp3.1\SyncProgEx.deps.json
+D:\ConsoleApp\SyncProgEx\SyncProgEx\bin\Debug\netcoreapp3.1\SyncProgEx.runtimeconfig.json
+D:\ConsoleApp\SyncProgEx\SyncProgEx\bin\Debug\netcoreapp3.1\SyncProgEx.runtimeconfig.dev.json
+D:\ConsoleApp\SyncProgEx\SyncProgEx\bin\Debug\netcoreapp3.1\SyncProgEx.dll
+D:\ConsoleApp\SyncProgEx\SyncProgEx\bin\Debug\netcoreapp3.1\SyncProgEx.pdb
+D:\ConsoleApp\SyncProgEx\SyncProgEx\obj\Debug\netcoreapp3.1\SyncProgEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp\SyncProgEx\SyncProgEx\obj\Debug\netcoreapp3.1\SyncProgEx.AssemblyInfoInputs.cache
+D:\ConsoleApp\SyncProgEx\SyncProgEx\obj\Debug\netcoreapp3.1\SyncProgEx.AssemblyInfo.cs
+D:\ConsoleApp\SyncProgEx\SyncProgEx\obj\Debug\netcoreapp3.1\SyncProgEx.csproj.CoreCompileInputs.cache
+D:\ConsoleApp\SyncProgEx\SyncProgEx\obj\Debug\netcoreapp3.1\SyncProgEx.dll
+D:\ConsoleApp\SyncProgEx\SyncProgEx\obj\Debug\netcoreapp3.1\SyncProgEx.pdb
+D:\ConsoleApp\SyncProgEx\SyncProgEx\obj\Debug\netcoreapp3.1\SyncProgEx.genruntimeconfig.cache

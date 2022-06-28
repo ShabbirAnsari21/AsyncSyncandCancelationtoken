@@ -1,0 +1,14 @@
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\obj\Debug\netcoreapp3.1\AsyncProgEx1.csproj.AssemblyReference.cache
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\obj\Debug\netcoreapp3.1\AsyncProgEx1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\obj\Debug\netcoreapp3.1\AsyncProgEx1.AssemblyInfoInputs.cache
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\obj\Debug\netcoreapp3.1\AsyncProgEx1.AssemblyInfo.cs
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\obj\Debug\netcoreapp3.1\AsyncProgEx1.csproj.CoreCompileInputs.cache
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\bin\Debug\netcoreapp3.1\AsyncProgEx1.exe
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\bin\Debug\netcoreapp3.1\AsyncProgEx1.deps.json
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\bin\Debug\netcoreapp3.1\AsyncProgEx1.runtimeconfig.json
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\bin\Debug\netcoreapp3.1\AsyncProgEx1.runtimeconfig.dev.json
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\bin\Debug\netcoreapp3.1\AsyncProgEx1.dll
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\bin\Debug\netcoreapp3.1\AsyncProgEx1.pdb
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\obj\Debug\netcoreapp3.1\AsyncProgEx1.dll
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\obj\Debug\netcoreapp3.1\AsyncProgEx1.pdb
+D:\ConsoleApp\AsyncProgEx1\AsyncProgEx1\obj\Debug\netcoreapp3.1\AsyncProgEx1.genruntimeconfig.cache
